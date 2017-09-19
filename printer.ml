@@ -1,3 +1,5 @@
+(* Code written by Al Sandoval *)
+
 open Pervasives
 open ANSITerminal
 open Game

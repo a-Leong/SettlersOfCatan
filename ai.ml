@@ -1,5 +1,5 @@
+(* Code written by Beau Mahadev *)
 
-(*Useful additions to game.ml?*)
 open Game 
 
 type premove = 

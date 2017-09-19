@@ -1,3 +1,5 @@
+(* Code written by Alex Leong *)
+
 open Array
 open Random
 

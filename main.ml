@@ -1,3 +1,5 @@
+(* Code written by Alex Leong *)
+
 open Game
 open Ai
 open Printer

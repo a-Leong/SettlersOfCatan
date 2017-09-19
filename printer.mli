@@ -1,3 +1,5 @@
+(* Code written by Al Sandoval *)
+
 open Game
 
 (* This is the mli file for the printer.*)

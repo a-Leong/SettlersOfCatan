@@ -1,3 +1,5 @@
+(* Code written by Alex Leong *)
+
 type resource = Brick | Lumber | Ore | Wheat | Sheep | Desert
 
 type devcard = Knight | Victory_pt | Road_building | Year_of_plenty | Monopoly

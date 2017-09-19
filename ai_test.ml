@@ -1,3 +1,5 @@
+(* Code written by Beau Mahadev *)
+
 open OUnit2
 open Game
 open Ai
