@@ -1,6 +1,10 @@
 # Settlers of Catan
 ## Overview
-A text based implementation of the popular turn based game. Gameplay is a bit awkward, but it is functional. Created with team members Beau Mahadev and Al Sandoval for CS 3110: Functional Programming in OCaml at Cornell University.
+A text based implementation of the popular turn based game. Its commandline gameplay is slightly unintuitive, but it is entirely 
+functional. 
+
+The primary scope of my contribution was development and implementation of the game state and interface. 
+Created with team members Beau Mahadev and Al Sandoval for CS 3110: Functional Programming in OCaml at Cornell University.
 
 ## Playing the Game
 1. Start a one player game with the terminal command \<make play\> in the repo directory
