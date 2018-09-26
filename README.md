@@ -1,7 +1,6 @@
 # Settlers of Catan
 ## Overview
-A text based implementation of the popular turn based game. Its commandline based gameplay is slightly unintuitive, but it is entirely 
-functional and has a charm. 
+A text based implementation of the popular turn based game.
 
 The primary scope of my contribution was development and implementation of the game state and interface. 
 Created with team members Beau Mahadev and Al Sandoval for CS 3110: Functional Programming in OCaml at Cornell University.
